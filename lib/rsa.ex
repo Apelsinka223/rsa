@@ -18,7 +18,7 @@ defmodule RSA do
 
   """
 
-  @algorithm des3
+  @algorithm "des3"
 
   @doc """
   Generates public and private key with a `password`
