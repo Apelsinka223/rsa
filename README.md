@@ -1,6 +1,6 @@
-# Rsa
+# RSA
 
-**TODO: Add description**
+**Module for work with rsa with des3 algorithm**
 
 ## Installation
 
